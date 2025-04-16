@@ -46,7 +46,7 @@
 ### 📌 Pinned Projects
 
 [![Kula](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAdamuAliyu&repo=Kula&theme=radical)](https://github.com/MuhammadAdamuAliyu/Kula)  
-[![Tradezy](https://tradezy-rho.vercel.app/home)](https://github.com/MuhammadAdamuAliyu/RareVoice)  
+[![Tradezy](https://tradezy-rho.vercel.app/home)](https://github.com/Adams-404/gsu-market-hub)  
 [![B-Plan](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAdamuAliyu&repo=B-Plan&theme=radical)](https://github.com/MuhammadAdamuAliyu/B-Plan)
 
 ---
@@ -63,7 +63,7 @@
 ### 📫 Let’s Connect
 
 - **LinkedIn**: [muhammad-adamu-aliyu](https://www.linkedin.com/in/mohammed-aliyu-853a7a254)  
-- **Twitter**: [@the_techsudo](https://twitter.com/_adam_alee)  
+- **Twitter**: [@the_tech_sudo](https://twitter.com/_adam_alee)  
 - **Personal Site**: 404...  
 - **Email**: muhammadadamualiyu33@gmail.com
 
