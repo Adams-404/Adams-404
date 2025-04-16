@@ -8,8 +8,8 @@
 
 ### 🚀 About Me
 
-- **Full-Stack Engineer** passionate about merging **biology + technology**
-
+- **Biological Science major** focused on _computational biology_, _synthetic biology_, _genetics_, and AI-driven bio-solutions. Working at the intersection of **code and life science** to design smarter systems for research, health, and diagnostics.
+  
 ### Some Projects That Hit
 
 -- **Everything here runs, ships, and actually helps:**
