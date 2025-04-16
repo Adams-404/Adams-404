@@ -15,7 +15,7 @@
 -- **Everything here runs, ships, and actually helps:**
 
   - **[Kula](#)** – a digital health operating system for Nigeria.
-  - **[Tradezy](#)** - Campus marketplace, redefined... Buy, sell, and connect across universities — starting at GSU. Categories, featured listings, and smooth UI.
+  - **[Tradezy](https://tradezy-rho.vercel.app/home)** - Campus marketplace, redefined... Buy, sell, and connect across universities — starting at GSU. Categories, featured listings, and smooth UI.
   - **[RareVoice](#)** – transcription for the rare African languages.  
   - **[DIY Discover](#)** – Submit and explore DIY project tutorials, vote, comment, bookmark.
 
