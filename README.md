@@ -1,4 +1,4 @@
-<h1 align="center">Hey world, I'm Muhammad Adamu Aliyu — aka Sudo 👨🏻‍💻</h1>
+<h1 align="center">Hello world, I'm Muhammad Adamu Aliyu — aka Sudo 👨🏻‍💻</h1>
 
 <p align="center">
   Full-Stack Engineer | AI/ML Enthusiast | Computational Biologist | Cloud Native | KDE Expert | Educator
@@ -14,7 +14,7 @@
 -- Everything here runs, ships, and actually helps: 
 
   - **[Kula](#)** – a digital health operating system for Nigeria.
-  - **[Tradezy]** - Campus marketplace, redefined... Buy, sell, and connect across universities — starting at GSU. Categories, featured listings, and smooth UI.
+  - **[Tradezy](#)** - Campus marketplace, redefined... Buy, sell, and connect across universities — starting at GSU. Categories, featured listings, and smooth UI.
   - **[RareVoice](#)** – transcription for the rare African languages.  
   - **[DIY Discover](#)** – Submit and explore DIY project tutorials, vote, comment, bookmark.
 
