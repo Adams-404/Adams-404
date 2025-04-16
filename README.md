@@ -1,7 +1,7 @@
 <h1 align="center">Hello world, I'm Muhammad Adamu Aliyu — aka Sudo 👨🏻‍💻</h1>
 
 <p align="center">
-  Full-Stack Engineer | AI/ML Enthusiast | Computational Biologist | Cloud Native | KDE Expert | Educator
+  Full-Stack Engineer | AI/ML Enthusiast | Computational Biologist | Cloud Native | KDE Expert | Synthetic Biology 🧬
 </p>
 
 ---
@@ -9,9 +9,10 @@
 ### 🚀 About Me
 
 - **Full-Stack Engineer** passionate about merging **biology + technology**
-- Some Projects That Hit
 
--- Everything here runs, ships, and actually helps: 
+### Some Projects That Hit
+
+-- **Everything here runs, ships, and actually helps:**
 
   - **[Kula](#)** – a digital health operating system for Nigeria.
   - **[Tradezy](#)** - Campus marketplace, redefined... Buy, sell, and connect across universities — starting at GSU. Categories, featured listings, and smooth UI.
@@ -45,7 +46,7 @@
 ### 📌 Pinned Projects
 
 [![Kula](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAdamuAliyu&repo=Kula&theme=radical)](https://github.com/MuhammadAdamuAliyu/Kula)  
-[![RareVoice](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAdamuAliyu&repo=RareVoice&theme=radical)](https://github.com/MuhammadAdamuAliyu/RareVoice)  
+[![Tradezy](https://tradezy-rho.vercel.app/home)](https://github.com/MuhammadAdamuAliyu/RareVoice)  
 [![B-Plan](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAdamuAliyu&repo=B-Plan&theme=radical)](https://github.com/MuhammadAdamuAliyu/B-Plan)
 
 ---
@@ -61,9 +62,9 @@
 
 ### 📫 Let’s Connect
 
-- **LinkedIn**: [muhammad-adamu-aliyu](https://www.linkedin.com/in/muhammad-adamu-aliyu-6020432a0)  
-- **Twitter**: [@the_techsudo](https://twitter.com/the_techsudo)  
-- **Personal Site**: Coming soon...  
+- **LinkedIn**: [muhammad-adamu-aliyu](https://www.linkedin.com/in/mohammed-aliyu-853a7a254)  
+- **Twitter**: [@the_techsudo](https://twitter.com/_adam_alee)  
+- **Personal Site**: 404...  
 - **Email**: muhammadadamualiyu33@gmail.com
 
 ---
