@@ -10,14 +10,6 @@
 
 - **Biological Science major** focused on _computational biology_, _synthetic biology_, _genetics_, and AI-driven bio-solutions. Working at the intersection of **code and life science** to design smarter systems for research, health, and diagnostics.
   
-### Some Projects That Hit
-
--- **Everything here runs, ships, and actually helps:**
-
-  - **[Kula](#)** – a digital health operating system for Nigeria.
-  - **[Tradezy](https://tradezy-rho.vercel.app/home)** - Campus marketplace, redefined... Buy, sell, and connect across universities — starting at GSU. Categories, featured listings, and smooth UI.
-  - **[RareVoice](#)** – transcription for the rare African languages.  
-  - **[DIY Discover](#)** – Submit and explore DIY project tutorials, vote, comment, bookmark.
 
 - Engineering solutions in health, education, and productivity
 
