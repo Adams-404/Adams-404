@@ -94,38 +94,7 @@
   </h2>
 </div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧬 BioPython Enhancement</h3>
-      <div align="center">
-        <a href="https://github.com/biopython/biopython" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/opensource.gif" width="250" alt="BioPython">
-        </a>
-        <p align="center">
-          Enhanced sequence analysis algorithms and contributed machine learning integration modules for computational biology research.
-        </p>
-        <p align="center">
-          <strong>Contributions:</strong> 12+ PRs, 8+ Issues Resolved
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🐧 KDE Plasma Widgets</h3>
-      <div align="center">
-        <a href="https://github.com/KDE/plasma-workspace" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/opensource.gif" width="250" alt="KDE Plasma">
-        </a>
-        <p align="center">
-          Developed custom widgets and improved system monitoring tools for KDE Plasma desktop environment.
-        </p>
-        <p align="center">
-          <strong>Contributions:</strong> 6+ PRs, 15+ Issues Resolved
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+
 
 <!-- Modern Stats Section -->
 <div align="center">
