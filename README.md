@@ -130,113 +130,113 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" />
+        <br>React Native
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" />
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="65" height="65" />
         <br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" width="65" height="65" />
-        <br>Ruby
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" width="65" height="65" />
+        <br>Ruby
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="65" height="65" />
         <br>Dart
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="65" height="65" />
         <br>Next.js
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="65" height="65" />
         <br>Flutter
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="65" height="65" />
         <br>Supabase
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="TailwindCSS" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="65" height="65" />
         <br>TailwindCSS
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
         <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="65" height="65" />
-        <br>Docker
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="65" height="65" />
         <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="65" height="65" />
         <br>Firebase
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" />
         <br>Git
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="65" height="65" />
         <br>Linux
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="65" height="65" />
         <br>TensorFlow
       </td>
-      <tr>
-  <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/BLAST_logo.png" alt="BLAST" width="65" height="65" />
-    <br>BLAST
-  </td>
-  <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/BioPython_logo.png" alt="Biopython" width="65" height="65" /> 
-    <br>Biopython
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Language" width="65" height="65" />
-    <br>
-  </td>
-  <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GenBank_Logo.svg/512px-GenBank_Logo.svg.png" alt="GenBank" width="65" height="65" />
-    <br>GenBank
-  </td>
-</tr>
-    <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="65" height="65" />
-    <br>React Native
-  </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/BLAST_logo.png" width="65" height="65" />
+        <br>BLAST
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/BioPython_logo.png" width="65" height="65" /> 
+        <br>Biopython
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="65" height="65" />
+        <br>R
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GenBank_Logo.svg/512px-GenBank_Logo.svg.png" width="65" height="65" />
+        <br>GenBank
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="65" height="65" />
         <br>OpenAI
       </td>
     </tr>
