@@ -95,9 +95,9 @@
   </h2>
 </div>
 
----------------------------------------------
-**I'M STILL WORKING ON IT!**
----------------------------------------------
+
+**LOADING....**  
+
 
 <!-- Modern Stats Section -->
 <div align="center">
@@ -219,7 +219,7 @@
     <br>BLAST
   </td>
   <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/BioPython_logo.png" alt="Biopython" width="65" height="65" />
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/0/0c/BioPython_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBiopython&psig=AOvVaw06QsHX0Lv12xOZl7tCVuuU&ust=1752880892752000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCBzqmExY4DFQAAAAAdAAAAABAE)" alt="Biopython" width="65" height="65" /> 
     <br>Biopython
   </td>
   <td align="center" width="96">
