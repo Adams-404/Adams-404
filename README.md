@@ -224,9 +224,9 @@
         <br>BLAST
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/BioPython_logo.png" width="65" height="65" /> 
-        <br>Biopython
-      </td>
+        <img src="https://raw.githubusercontent.com/biopython/biopython/master/Doc/images/biopython_logo_m.png" width="65" height="65" />
+      <br>Biopython
+    </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="65" height="65" />
         <br>R
