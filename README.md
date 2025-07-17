@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Modern Animated Header with Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=150&section=header&text=MUHAMMAD%20ADAMU%20ALIYU&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Computational%20Biologist&fontSize=28&fontColor=FFFFFF&fontAlignY=35&descSize=15&descAlignY=50&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=120&section=header&text=MUHAMMAD%20ADAMU%20ALIYU&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Computational%20Biologist&fontSize=24&fontColor=FFFFFF&fontAlignY=35&descSize=14&descAlignY=50&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="90%" />
   
   <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -45,9 +45,9 @@
 
 <!-- System Status -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60%" style="border-radius: 8px;">
+  <h2 style="margin-top: 15px;">
+    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25">
     System Status
   </h2>
 </div>
@@ -80,18 +80,24 @@
   </h2>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adams-404&theme=tokyonight" width="100%" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adams-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&icon_color=7209b7&text_color=FFFFFF&ring_color=00d4aa" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adams-404&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4aa&fire=7209b7&currStreakLabel=00d4aa" width="49%" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adams-404&theme=tokyonight" style="width: 85%; border-radius: 8px; margin-bottom: 20px;" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adams-404&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&text_color=FFFFFF&layout=compact" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adams-404&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=7209b7&point=00d4aa&area_color=00d4aa&area=true&hide_border=true" width="49%" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adams-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&icon_color=7209b7&text_color=FFFFFF&ring_color=00d4aa" style="width: 85%; border-radius: 8px; margin-bottom: 20px;" />
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adams-404&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4aa&fire=7209b7&currStreakLabel=00d4aa" style="width: 85%; border-radius: 8px; margin-bottom: 20px;" />
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adams-404&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&text_color=FFFFFF&layout=compact" style="width: 85%; border-radius: 8px; margin-bottom: 20px;" />
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adams-404&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=7209b7&point=00d4aa&area_color=00d4aa&area=true&hide_border=true" style="width: 90%; border-radius: 8px;" />
 </div>
 
 <!-- Skills Matrix -->
