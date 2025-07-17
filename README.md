@@ -150,13 +150,13 @@
         <br>React Native
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="65" height="65" />
-        <br>C
-      </td>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="65" height="65" />
+  <br>Node.js
+</td>
+     <td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="65" height="65" />
+  <br>C
+</td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -193,10 +193,10 @@
         <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="65" height="65" />
         <br>Docker
       </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="65" height="65" />
-        <br>PostgreSQL
-      </td>
+     <td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="65" height="65" />
+  <br>PostgreSQL
+</td>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="65" height="65" />
         <br>Firebase
@@ -209,10 +209,10 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="65" height="65" />
         <br>GitHub
       </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="65" height="65" />
-        <br>Linux
-      </td>
+     <td align="center" width="96">
+  <img src="https://www.linuxportal.info/sites/default/files/attachments/cikkek/2018-04/tux-logo-2000.jpg" width="65" height="65" />
+  <br>Linux
+</td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="65" height="65" />
         <br>TensorFlow
@@ -220,9 +220,9 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/BLAST_logo.png" width="65" height="65" />
-        <br>BLAST
-      </td>
+  <img src="https://www.blastprogramme.co.uk/wp-content/uploads/2015/02/Blast_headerlogo_mono_sml.png" width="65" height="65" />
+  <br>BLAST
+</td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/biopython/biopython/master/Doc/images/biopython_logo_m.png" width="65" height="65" />
       <br>Biopython
@@ -232,13 +232,13 @@
         <br>R
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GenBank_Logo.svg/512px-GenBank_Logo.svg.png" width="65" height="65" />
-        <br>GenBank
-      </td>
+  <img src="https://img.favpng.com/1/9/22/national-center-for-biotechnology-information-genbank-genomics-logo-pubmed-png-favpng-xeFipwb8WBYf3hckLzxY0N8xg.jpg" width="65" height="65" />
+  <br>GenBank
+</td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="65" height="65" />
-        <br>OpenAI
-      </td>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/OpenAI_logo_2025_%28wordmark%29.svg" width="65" height="65" />
+  <br>OpenAI
+</td>
     </tr>
   </table>
 </div>
