@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="45%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/your-username?v=4" alt="Profile" width="100%" style="border-radius: 10px;" />
+      <img src="https://avatars.githubusercontent.com/u/Adams-404?v=4" alt="Profile" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="55%">
       <h2 align="left">👨🏻‍💻 About Me</h2>
@@ -137,12 +137,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adams-404&theme=tokyonight" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&icon_color=7209b7&text_color=FFFFFF&ring_color=00d4aa" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4aa&fire=7209b7&currStreakLabel=00d4aa" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adams-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&icon_color=7209b7&text_color=FFFFFF&ring_color=00d4aa" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adams-404&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4aa&fire=7209b7&currStreakLabel=00d4aa" width="49%" />
 </div>
 
 <!-- Tech Stack with Modern Design -->
@@ -305,7 +305,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=1a1b27&color=00d4aa&line=7209b7&point=FFFFFF&area=true&area_color=7209b7&hide_border=true&radius=16" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adams-404&bg_color=1a1b27&color=00d4aa&line=7209b7&point=FFFFFF&area=true&area_color=7209b7&hide_border=true&radius=16" width="95%" alt="Activity Graph">
   
   <br>
   <!-- Animated Snake Contribution -->
@@ -339,14 +339,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15" width="95%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adams-404&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15" width="95%" alt="Trophy" />
 </div>
 
 <!-- Footer with Visitor Count -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=00d4aa" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Adams-404&style=for-the-badge&color=00d4aa" alt="Profile Views" />
   <br><br>
   <h3>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
