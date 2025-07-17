@@ -96,7 +96,8 @@
 </div>
 
 ---------------------------------------------
-I'M STILL WORKING ON IT!
+**I'M STILL WORKING ON IT!**
+---------------------------------------------
 
 <!-- Modern Stats Section -->
 <div align="center">
@@ -212,6 +213,32 @@ I'M STILL WORKING ON IT!
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
         <br>TensorFlow
       </td>
+      <tr>
+  <td align="center" width="96">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/BLAST_logo.png" alt="BLAST" width="65" height="65" />
+    <br>BLAST
+  </td>
+  <td align="center" width="96">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/BioPython_logo.png" alt="Biopython" width="65" height="65" />
+    <br>Biopython
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" />
+    <br>Python
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Language" width="65" height="65" />
+    <br>R
+  </td>
+  <td align="center" width="96">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GenBank_Logo.svg/512px-GenBank_Logo.svg.png" alt="GenBank" width="65" height="65" />
+    <br>GenBank
+  </td>
+</tr>
+    <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="65" height="65" />
+    <br>React Native
+  </td>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" width="65" height="65" />
         <br>OpenAI
