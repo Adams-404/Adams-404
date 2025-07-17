@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="45%" align="center">
-      <img src="[https://avatars.githubusercontent.com/u/Adams-404?v=4](https://avatars.githubusercontent.com/u/150980731?s=400&u=060c77da0a7b958ab1f0dcbbcb1b688a226a1408&v=4)" alt="Profile" width="100%" style="border-radius: 10px;" />
+      <img src="[[https://avatars.githubusercontent.com/u/Adams-404?v=4](https://avatars.githubusercontent.com/u/150980731?s=400&u=060c77da0a7b958ab1f0dcbbcb1b688a226a1408&v=4)](https://llrmbyafcffporpjtbka.supabase.co/storage/v1/object/sign/team/Me.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lN2M5ZWEwNS1hZDNhLTQwYjgtODQ0Yy0yODJhYTNhMTVjYTMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ0ZWFtL01lLnBuZyIsImlhdCI6MTc1Mjc5MzkwOCwiZXhwIjoyODgxNzUyNzY1MTA4fQ.7FPMslEksnPcZcP2zapVCjTg27zYAXcmkfMFG0kN1f0)" alt="Profile" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="55%">
       <h2 align="left">👨🏻‍💻 About Me</h2>
