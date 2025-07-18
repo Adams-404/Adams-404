@@ -208,10 +208,10 @@
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="65" height="65" />
         <br>GitHub
-      <td align="center" width="96">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/1200px-KDE_logo.svg.png" width="65" height="65" />
-  <br>Linux
-</td>
+     <td align="center" width="96">
+      <img src="https://kde.org/stuff/clipart/logo/kde-logo-blue-transparent-source.svg" width="65" height="65" />
+      <br>Linux
+    </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="65" height="65" />
         <br>TensorFlow
