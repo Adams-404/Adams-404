@@ -235,7 +235,7 @@
   <br>GenBank
 </td>
       <td align="center" width="96">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/OpenAI_logo_2025_%28wordmark%29.svg" width="65" height="65" />
+  <img src="https://img.icons8.com/?size=100&id=Ker3WD813mHr&format=png&color=000000" width="65" height="65" />
   <br>OpenAI
 </td>
     </tr>
