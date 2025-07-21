@@ -231,10 +231,6 @@
         <br>R
       </td>
       <td align="center" width="96">
-  <img src="https://img.favpng.com/1/9/22/national-center-for-biotechnology-information-genbank-genomics-logo-pubmed-png-favpng-xeFipwb8WBYf3hckLzxY0N8xg.jpg" width="65" height="65" />
-  <br>GenBank
-</td>
-      <td align="center" width="96">
   <img src="https://img.icons8.com/?size=100&id=Ker3WD813mHr&format=png&color=000000" width="65" height="65" />
   <br>OpenAI
 </td>
