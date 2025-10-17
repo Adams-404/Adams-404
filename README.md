@@ -331,6 +331,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Adams-404&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15" width="95%" alt="Trophy" />
 </div>
 
+  
+<!-- Footer with Visitor Count -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Adams-404&style=for-the-badge&color=00d4aa" alt="Profile Views" />
+  <br><br>
+
+
   <!-- Fun personal badges -->
 ![Coffee Lover](https://img.shields.io/badge/Powered_by-Coffee-brown?style=for-the-badge&logo=buymeacoffee)
 
@@ -339,12 +348,6 @@
 <!-- Status badges -->
 ![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-ff69b4?style=for-the-badge)
   
-<!-- Footer with Visitor Count -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Adams-404&style=for-the-badge&color=00d4aa" alt="Profile Views" />
-  <br><br>
   <h3>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
     "Building bridges between code and life. Blueprinting the future of intelligence."
