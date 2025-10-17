@@ -1,6 +1,17 @@
 <div align="center">
   <!-- Modern Animated Header with Gradient Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=MUHAMMAD%20ADAMU%20ALIYU&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Computational%20Biologist&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+
+  <!-- Fun personal badges -->
+![Coffee Lover](https://img.shields.io/badge/Powered_by-Coffee-brown?style=for-the-badge&logo=buymeacoffee)
+
+![Night Owl](https://img.shields.io/badge/Coding_Hours-12AM--6AM-blueviolet?style=for-the-badge&logo=moon)
+
+<!-- Achievement badges -->
+![Projects](https://img.shields.io/badge/Projects_Completed-50+-brightgreen?style=for-the-badge)
+
+<!-- Status badges -->
+![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-ff69b4?style=for-the-badge)
   
   <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
