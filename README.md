@@ -2,17 +2,6 @@
   <!-- Modern Animated Header with Gradient Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=MUHAMMAD%20ADAMU%20ALIYU&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Computational%20Biologist&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 
-  <!-- Fun personal badges -->
-![Coffee Lover](https://img.shields.io/badge/Powered_by-Coffee-brown?style=for-the-badge&logo=buymeacoffee)
-
-![Night Owl](https://img.shields.io/badge/Coding_Hours-12AM--6AM-blueviolet?style=for-the-badge&logo=moon)
-
-<!-- Achievement badges -->
-![Projects](https://img.shields.io/badge/Projects_Completed-50+-brightgreen?style=for-the-badge)
-
-<!-- Status badges -->
-![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-ff69b4?style=for-the-badge)
-  
   <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&height=70&lines=Building+bridges+between+code+and+life;Engineering+AI-driven+bio-solutions;Computational+biology+researcher;Full-stack+developer;Open-source+contributor" alt="Typing SVG" />
@@ -342,6 +331,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Adams-404&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15" width="95%" alt="Trophy" />
 </div>
 
+  <!-- Fun personal badges -->
+![Coffee Lover](https://img.shields.io/badge/Powered_by-Coffee-brown?style=for-the-badge&logo=buymeacoffee)
+
+![Night Owl](https://img.shields.io/badge/Coding_Hours-12AM--6AM-blueviolet?style=for-the-badge&logo=moon)
+
+<!-- Status badges -->
+![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-ff69b4?style=for-the-badge)
+  
 <!-- Footer with Visitor Count -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
