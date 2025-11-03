@@ -94,7 +94,12 @@
     Open Source Contributions
   </h2>
 </div>
-[![An image of @adams404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adams404)](https://holopin.io/@adams404)
+<!-- Holopin Badges -->
+<p align="center">
+  <a href="https://holopin.io/@adams404" target="_blank">
+    <img src="https://holopin.me/adams404" alt="An image of @adams404's Holopin badges, which is a link to view their full Holopin profile" />
+  </a>
+</p>
 
 **LOADING....**  
 
