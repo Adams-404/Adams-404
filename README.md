@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Modern Animated Header with Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=MUHAMMAD%20ADAMU%20ALIYU&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Computational%20Biologist&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=MUHAMMAD%20ADAMU%20ALIYU&desc=SWE%20|%20AI/ML%20|%20Biologist&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 
   <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -21,12 +21,9 @@
     <td width="55%">
       <h2 align="left">👨🏻‍💻 About Me</h2>
       <p align="left">
-        I'm a passionate Full-Stack Engineer and AI/ML Enthusiast with a unique focus on computational biology and synthetic biology. As a <strong>Biological Science major</strong>, I work at the intersection of code and life science to design smarter systems for research, health, and diagnostics.
+        SWE & AI/ML Engineer with a major in <strong>Biological Science</strong>, focused more on computational biology and synthetic biology. 
       </p>
-      <p align="left">
-        Currently engineering solutions in health, education, and productivity while diving deep into AI, cloud systems, and scalable tech. I'm hardcore on open-source — I build, not just contribute. KDE power user, Linux-native, building tech that runs lean and clean.
-      </p>
-      <div align="left">
+            <div align="left">
         <a href="https://linkedin.com/in/muhammad-adamu-aliyu" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
@@ -56,33 +53,33 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧬 BioSeq Analyzer</h3>
-      <div align="center">
-        <a href="https://github.com/your-username/bioseq-analyzer" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="BioSeq Analyzer">
-        </a>
-        <p align="center">
-          AI-powered biological sequence analysis tool for genomic research. Features machine learning algorithms for sequence classification, protein structure prediction, and genetic variant analysis.
-        </p>
-        <p align="center">
-          <strong>Tech Stack:</strong> Python, TensorFlow, BioPython, React, Node.js
-        </p>
-      </div>
-    </td>
+  <h3 align="center">⚡ GenomIQ</h3>
+  <div align="center">
+    <a href="https://github.com/Adams-404/genomiq" target="_blank">
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="GenomIQ">
+    </a>
+    <p align="center">
+      An AI-driven computational biology engine for high-throughput genomic sequence analysis — integrating deep learning models for sequence classification, protein structure inference, and genetic variant detection at research grade.
+    </p>
+    <p align="center">
+      <strong>Tech Stack:</strong> Python · TensorFlow · BioPython · FastAPI · React · Docker · GCP
+    </p>
+  </div>
+</td>
     <td width="50%">
-      <h3 align="center">🏥 HealthTech Platform</h3>
-      <div align="center">
-        <a href="https://github.com/your-username/healthtech-platform" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="HealthTech Platform">
-        </a>
-        <p align="center">
-          Full-stack health management platform with AI-driven diagnostic assistance, patient monitoring, and telemedicine capabilities for improved healthcare delivery.
-        </p>
-        <p align="center">
-          <strong>Tech Stack:</strong> React Native, Next.js, Supabase, OpenAI API
-        </p>
-      </div>
-    </td>
+  <h3 align="center">⚡ Evergreeners</h3>
+  <div align="center">
+    <a href="https://evergreeners.dev" target="_blank">
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="Evergreeners">
+    </a>
+    <p align="center">
+      A developer engagement platform leveraging real-time GitHub telemetry, gamification mechanics, and automated contribution verification pipelines to drive engineering consistency at scale.
+    </p>
+    <p align="center">
+      <strong>Tech Stack:</strong> Next.js · Node.js · PostgreSQL · Drizzle ORM · Redis · Better Auth · GCP · Vercel Edge Network
+    </p>
+  </div>
+</td>
   </tr>
 </table>
 
