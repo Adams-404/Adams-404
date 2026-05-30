@@ -1,39 +1,33 @@
 <div align="center">
-  <!-- Modern Animated Header with Gradient Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=MUHAMMAD%20ADAMU%20ALIYU&desc=SWE%20|%20AI/ML%20|%20Biologist&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 
-  <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&height=70&lines=Building+bridges+between+code+and+life;Engineering+AI-driven+bio-solutions;Computational+biology+researcher;Full-stack+developer;Open-source+contributor" alt="Typing SVG" />
   </a>
   
-  <!-- Subtle Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- Modern Profile Card -->
+<!-- Profile Card -->
 <table>
   <tr>
-   <td width="45%" align="center">
-  <img src="https://llrmbyafcffporpjtbka.supabase.co/storage/v1/object/sign/team/Me.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lN2M5ZWEwNS1hZDNhLTQwYjgtODQ0Yy0yODJhYTNhMTVjYTMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ0ZWFtL01lLnBuZyIsImlhdCI6MTc1Mjc5MzkwOCwiZXhwIjoyODgxNzUyNzY1MTA4fQ.7FPMslEksnPcZcP2zapVCjTg27zYAXcmkfMFG0kN1f0" 
-       alt="Profile" width="100%" style="border-radius: 10px;" />
-</td>
+    <td width="45%" align="center">
+      <img src="https://llrmbyafcffporpjtbka.supabase.co/storage/v1/object/sign/team/Me.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lN2M5ZWEwNS1hZDNhLTQwYjgtODQ0Yy0yODJhYTNhMTVjYTMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ0ZWFtL01lLnBuZyIsImlhdCI6MTc1Mjc5MzkwOCwiZXhwIjoyODgxNzUyNzY1MTA4fQ.7FPMslEksnPcZcP2zapVCjTg27zYAXcmkfMFG0kN1f0"
+           alt="Profile" width="100%" style="border-radius: 10px;" />
+    </td>
     <td width="55%">
       <h2 align="left">👨🏻‍💻 About Me</h2>
       <p align="left">
-        SWE & AI/ML Engineer with a major in <strong>Biological Science</strong>, focused more on computational biology and synthetic biology. 
+        SWE & AI/ML Engineer with a major in <strong>Biological Science</strong>, focused on computational biology and synthetic biology. Building at the intersection of code, intelligence, and life.
       </p>
-            <div align="left">
+      <div align="left">
         <a href="https://linkedin.com/in/muhammad-adamu-aliyu" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
-        <a href="https://twitter.com/the_tech_sudo" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+        <a href="https://twitter.com/_Adam_Alee" target="_blank">
+          <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
         </a>
-        <a href="mailto:muhammadadamualiyu33@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <a href="#" target="_blank">
+        <a href="https://evergreeners.dev" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
         </a>
       </div>
@@ -41,91 +35,60 @@
   </tr>
 </table>
 
-<!-- Current Projects Section -->
+<!-- Featured Projects -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-    Featured Projects
-  </h2>
+  <h2>⚡ Featured Projects</h2>
 </div>
 
 <table>
   <tr>
     <td width="50%">
-  <h3 align="center">⚡ GenomIQ</h3>
-  <div align="center">
-    <a href="https://github.com/Adams-404/genomiq" target="_blank">
-      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="GenomIQ">
-    </a>
-    <p align="center">
-      An AI-driven computational biology engine for high-throughput genomic sequence analysis — integrating deep learning models for sequence classification, protein structure inference, and genetic variant detection at research grade.
-    </p>
-    <p align="center">
-      <strong>Tech Stack:</strong> Python · TensorFlow · BioPython · FastAPI · React · Docker · GCP
-    </p>
-  </div>
-</td>
+      <h3 align="center">🧬 GenomIQ</h3>
+      <div align="center">
+        <a href="https://github.com/Adams-404/genomiq" target="_blank">
+          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="GenomIQ">
+        </a>
+        <p align="center">
+          An AI-driven computational biology engine for high-throughput genomic sequence analysis — integrating deep learning models for sequence classification, protein structure inference, and genetic variant detection at research grade.
+        </p>
+        <p align="center">
+          <strong>Stack:</strong> Python · TensorFlow · BioPython · FastAPI · React · Docker · GCP
+        </p>
+      </div>
+    </td>
     <td width="50%">
-  <h3 align="center">⚡ Evergreeners</h3>
-  <div align="center">
-    <a href="https://evergreeners.dev" target="_blank">
-      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="Evergreeners">
-    </a>
-    <p align="center">
-      A developer engagement platform leveraging real-time GitHub telemetry, gamification mechanics, and automated contribution verification pipelines to drive engineering consistency at scale.
-    </p>
-    <p align="center">
-      <strong>Tech Stack:</strong> Next.js · Node.js · PostgreSQL · Drizzle ORM · Redis · Better Auth · GCP · Vercel Edge Network
-    </p>
-  </div>
-</td>
+      <h3 align="center"> Evergreeners</h3>
+      <div align="center">
+        <a href="https://evergreeners.dev" target="_blank">
+          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="Evergreeners">
+        </a>
+        <p align="center">
+          A developer engagement platform leveraging real-time GitHub telemetry, gamification mechanics, and automated contribution verification pipelines to drive engineering consistency at scale.
+        </p>
+        <p align="center">
+          <strong>Stack:</strong> Next.js · Node.js · PostgreSQL · Drizzle ORM · Redis · Better Auth · GCP · Vercel
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 
-<!-- Open Source Contributions -->
+<!-- GitHub Analytics -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-    Open Source Contributions
-  </h2>
+  <h2>📊 GitHub Analytics</h2>
 </div>
-<!-- Holopin Badges -->
-<p align="center">
-  <a href="https://holopin.io/@adams404" target="_blank">
-    <img src="https://holopin.me/adams404" alt="An image of @adams404's Holopin badges, which is a link to view their full Holopin profile" />
-  </a>
-</p>
 
-**LOADING....**  
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adams-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&icon_color=7209b7&text_color=FFFFFF&ring_color=00d4aa" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Adams-404&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4aa&fire=7209b7&currStreakLabel=00d4aa&hide_total_contributions=true" width="49%" />
+</div>
 
-
-<!-- Modern Stats Section -->
+<!-- Tech Stack -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-    GitHub Analytics
-  </h2>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adams-404&theme=tokyonight" width="100%" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adams-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&icon_color=7209b7&text_color=FFFFFF&ring_color=00d4aa" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adams-404&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4aa&fire=7209b7&currStreakLabel=00d4aa" width="49%" />
-</div>
-
-<!-- Tech Stack with Modern Design -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-    Tech Stack
-  </h2>
+  <h2>🛠️ Tech Stack</h2>
 </div>
 
 <div align="center">
@@ -152,13 +115,13 @@
         <br>React Native
       </td>
       <td align="center" width="96">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="65" height="65" />
-  <br>Node.js
-</td>
-     <td align="center" width="96">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="65" height="65" />
-  <br>C
-</td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" />
+        <br>C
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -186,8 +149,8 @@
         <br>TailwindCSS
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
-        <br>AWS
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="65" height="65" />
+        <br>GCP
       </td>
     </tr>
     <tr>
@@ -195,10 +158,10 @@
         <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="65" height="65" />
         <br>Docker
       </td>
-     <td align="center" width="96">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="65" height="65" />
-  <br>PostgreSQL
-</td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" />
+        <br>PostgreSQL
+      </td>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="65" height="65" />
         <br>Firebase
@@ -210,10 +173,11 @@
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="65" height="65" />
         <br>GitHub
-     <td align="center" width="96">
-      <img src="https://kde.org/stuff/clipart/logo/kde-logo-blue-transparent-source.svg" width="65" height="65" />
-      <br>Linux
-    </td>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" />
+        <br>Linux
+      </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="65" height="65" />
         <br>TensorFlow
@@ -221,32 +185,29 @@
     </tr>
     <tr>
       <td align="center" width="96">
-  <img src="https://www.blastprogramme.co.uk/wp-content/uploads/2015/02/Blast_headerlogo_mono_sml.png" width="65" height="65" />
-  <br>BLAST
-</td>
+        <img src="https://www.blastprogramme.co.uk/wp-content/uploads/2015/02/Blast_headerlogo_mono_sml.png" width="65" height="65" />
+        <br>BLAST
+      </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/biopython/biopython/master/Doc/images/biopython_logo_m.png" width="65" height="65" />
-      <br>Biopython
-    </td>
+        <br>Biopython
+      </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="65" height="65" />
         <br>R
       </td>
       <td align="center" width="96">
-  <img src="https://img.icons8.com/?size=100&id=Ker3WD813mHr&format=png&color=000000" width="65" height="65" />
-  <br>OpenAI
-</td>
+        <img src="https://img.icons8.com/?size=100&id=Ker3WD813mHr&format=png&color=000000" width="65" height="65" />
+        <br>OpenAI
+      </td>
     </tr>
   </table>
 </div>
 
-<!-- Specialized Skills Section -->
+<!-- Specialized Skills -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    Specialized Skills
-  </h2>
+  <h2>🎯 Specialized Skills</h2>
 </div>
 
 <div align="center">
@@ -276,7 +237,7 @@
         <h3>☁️ Cloud & DevOps</h3>
         <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="Cloud">
         <p>
-          • AWS cloud architecture<br>
+          • GCP cloud architecture<br>
           • Docker containerization<br>
           • CI/CD pipelines<br>
           • Scalable system design
@@ -286,20 +247,15 @@
   </table>
 </div>
 
-<!-- Animated Contribution Graph -->
+<!-- Contribution Graph -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-    Contribution Graph
-  </h2>
+  <h2>📈 Contribution Graph</h2>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adams-404&bg_color=1a1b27&color=00d4aa&line=7209b7&point=FFFFFF&area=true&area_color=7209b7&hide_border=true&radius=16" width="95%" alt="Activity Graph">
-  
   <br>
-  <!-- Animated Snake Contribution -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
@@ -307,13 +263,10 @@
   </picture>
 </div>
 
-<!-- Dev Quote with Modern Design -->
+<!-- Dev Quote -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
-    Developer Quote
-  </h2>
+  <h2>💬 Developer Quote</h2>
 </div>
 
 <div align="center">
@@ -323,37 +276,24 @@
 <!-- GitHub Trophies -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="30">
-    GitHub Trophies
-  </h2>
+  <h2>🏆 GitHub Trophies</h2>
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adams-404&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15" width="95%" alt="Trophy" />
 </div>
 
-  
-<!-- Footer with Visitor Count -->
+<!-- Footer -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <br>
   <img src="https://komarev.com/ghpvc/?username=Adams-404&style=for-the-badge&color=00d4aa" alt="Profile Views" />
   <br><br>
 
+  ![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-00d4aa?style=for-the-badge)
+  ![Night Owl](https://img.shields.io/badge/Coding_Hours-12AM--6AM-7209b7?style=for-the-badge&logo=moon)
 
-  <!-- Fun personal badges -->
-![Coffee Lover](https://img.shields.io/badge/Powered_by-Coffee-brown?style=for-the-badge&logo=buymeacoffee)
-
-![Night Owl](https://img.shields.io/badge/Coding_Hours-12AM--6AM-blueviolet?style=for-the-badge&logo=moon)
-
-<!-- Status badges -->
-![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-ff69b4?style=for-the-badge)
-  
-  <h3>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    "Building bridges between code and life. Blueprinting the future of intelligence."
-  </h3>
+  <h3>"Building bridges between code and life. Blueprinting the future of intelligence."</h3>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%"/>
 </div>
