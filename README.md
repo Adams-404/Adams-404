@@ -12,9 +12,13 @@
 <table>
   <tr>
     <td width="45%" align="center">
-      <img src="https://llrmbyafcffporpjtbka.supabase.co/storage/v1/object/sign/team/Me.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lN2M5ZWEwNS1hZDNhLTQwYjgtODQ0Yy0yODJhYTNhMTVjYTMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ0ZWFtL01lLnBuZyIsImlhdCI6MTc1Mjc5MzkwOCwiZXhwIjoyODgxNzUyNzY1MTA4fQ.7FPMslEksnPcZcP2zapVCjTg27zYAXcmkfMFG0kN1f0"
-           alt="Profile" width="100%" style="border-radius: 10px;" />
-    </td>
+  <img
+    src="https://github.com/user-attachments/assets/a43f3b99-a10c-4d9d-9036-c7b9f426d7a9"
+    alt="Profile"
+    width="100%"
+    style="border-radius: 10px;"
+  />
+</td>
     <td width="55%">
       <h2 align="left">👨🏻‍💻 About Me</h2>
       <p align="left">
