@@ -4,6 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&height=70&lines=Building+bridges+between+code+and+life;Engineering+AI-driven+bio-solutions;Computational+biology+researcher;Full-stack+developer;Open-source+contributor" alt="Typing SVG" />
   </a>
+  <a href="https://holopin.io/@adams404"><img src="https://holopin.me/adams404"></a>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
@@ -48,16 +49,19 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧬 GenomIQ</h3>
+      <h3 align="center">BIAS</h3>
       <div align="center">
-        <a href="https://github.com/Adams-404/genomiq" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="GenomIQ">
+        <a href="https://github.com/Adams-404/basira-insight-engine" target="_blank">
+          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="BIAS">
         </a>
         <p align="center">
-          An AI-driven computational biology engine for high-throughput genomic sequence analysis — integrating deep learning models for sequence classification, protein structure inference, and genetic variant detection at research grade.
+          BIAS is the Basira Institute for Advanced Science, an independent frontier research institute/platform focused on biology, machine intelligence, and scientific engineering. Its structure includes BIAS Labs (biology and systems), BIAS Studio (design and engineering), and BIAS AI (intelligence and simulation). The repository is the official public-facing platform and digital infrastructure for BIAS, built with React 19, TanStack Start, TypeScript, and a high-performance SSR architecture.
         </p>
         <p align="center">
-          <strong>Stack:</strong> Python · TensorFlow · BioPython · FastAPI · React · Docker · GCP
+          <a href="https://bias.science" target="_blank">bias.science</a>
+        </p>
+        <p align="center">
+          <strong>Stack:</strong> React 19 · TanStack Start · TypeScript · Tailwind CSS · Vite · Resend
         </p>
       </div>
     </td>
