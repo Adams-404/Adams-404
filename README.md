@@ -60,9 +60,6 @@
         <p align="center">
           <a href="https://bias.science" target="_blank">bias.science</a>
         </p>
-        <p align="center">
-          <strong>Stack:</strong> React 19 · TanStack Start · TypeScript · Tailwind CSS · Vite · Resend
-        </p>
       </div>
     </td>
     <td width="50%">
